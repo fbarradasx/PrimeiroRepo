@@ -1,12 +1,21 @@
--- criando primeiro repo
+** criando primeiro repo
 
 git init PrimeiroRepo
 cd PrimeiroRepo
 
-criar arquivo
+**criar arquivo
 
 git add .
 git comit
 
+**adicionar repositorio remoto
+
 git status
 git log
+
+
+git remote -v
+git push -u origin master (depois só git push)
+
+
+
