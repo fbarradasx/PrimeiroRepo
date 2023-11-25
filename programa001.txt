@@ -15,7 +15,7 @@ git log
 
 
 git remote -v
-git push -u origin master (depois só git push)
+git push -u origin master (depois só git push - sincriniza com o repositorio remoto)
 
 
 
