@@ -1,0 +1,12 @@
+-- criando primeiro repo
+
+git init PrimeiroRepo
+cd PrimeiroRepo
+
+criar arquivo
+
+git add .
+git comit
+
+git status
+git log
