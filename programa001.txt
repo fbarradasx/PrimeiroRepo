@@ -44,4 +44,4 @@ pit push <remote> <tag> - guarda um estado do repositório (não recebe mais com
 git checkout v1.0 (tag) --> o git apresenta git checkout -b <new-branch-name>
 
 
-
+fim
