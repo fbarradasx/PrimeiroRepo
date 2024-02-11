@@ -17,5 +17,31 @@ git log
 git remote -v
 git push -u origin master (depois só git push - sincriniza com o repositorio remoto)
 
+git init primeiroRepo
+git add personagens.txt
+
+git checkout 'hash'
+git checkout master
+
+giteye
+
+Branchs - criar ramificações do repositório
+git branch
+git branch <nova_branch> - cria nova branch
+git branch -d <branch> - exclui uma branch
+git checkout <branch> - muda para a branch
+
+git push -u origin novaBranch - cria nova branch no remoto
+
+git merge <branch> ou
+git rebase <branch> - que faz merge com a master 
+
+git fetch - baixa as atualizações do remote porém não aplica
+
+git tag [nome da tag]
+pit push <remote> <tag> - guarda um estado do repositório (não recebe mais comits)
+
+git checkout v1.0 (tag) --> o git apresenta git checkout -b <new-branch-name>
+
 
 
